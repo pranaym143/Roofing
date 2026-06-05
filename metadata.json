@@ -1,0 +1,6 @@
+{
+  "name": "Premium Roofing Portfolio",
+  "description": "A high-end, visual-heavy dark portfolio showcasing next-generation premium roofing design and craftsmanship.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
