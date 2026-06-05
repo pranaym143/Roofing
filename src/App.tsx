@@ -895,7 +895,7 @@ export default function App() {
             <h2 className="font-display font-bold text-3xl sm:text-5xl text-white tracking-tight leading-none">
               Client FAQ.
             </h2>
-            <div className="h-1 w-20 bg-brand-red rounded-full mx-auto" stroke-width="5" />
+            <div className="h-1 w-20 bg-brand-red rounded-full mx-auto" />
           </div>
 
           {/* Accordion List blocks with custom icons */}
